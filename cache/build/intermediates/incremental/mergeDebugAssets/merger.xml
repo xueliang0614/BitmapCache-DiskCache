@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.3.0"><source path="D:\app_waimai\MyApplication2\cache\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\assets"/></dataSet><dataSet config="main"><source path="D:\app_waimai\MyApplication2\cache\src\main\assets"/><source path="D:\app_waimai\MyApplication2\cache\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\app_waimai\MyApplication2\cache\src\debug\assets"/></dataSet></merger>
